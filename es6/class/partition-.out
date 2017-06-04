@@ -1,0 +1,21 @@
++---------------------------------------+
+| Connected!                            |
+|                                       |
+| sql-statement(s)[;]                   |
+| go                                    |
+| \noac                                 |
+| \ac                                   |
+| \commit                               |
+| \rollback                             |
+| \tables                               |
+| \columns <table-name>                 |
+| \quit                                 |
+|                                       |
++---------------------------------------+
++-------+
+|       |
++-------+
+| 0     |
++-------+
+SQLRowCount returns 1
+1 rows fetched
